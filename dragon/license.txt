@@ -1,0 +1,11 @@
+Model Information:
+* title:	Phantump Shiny
+* source:	https://sketchfab.com/3d-models/phantump-shiny-c38328f65ad849d2aa2387eeb3b4e4a9
+* author:	Ergoni (https://sketchfab.com/Ergoni)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Phantump Shiny" (https://sketchfab.com/3d-models/phantump-shiny-c38328f65ad849d2aa2387eeb3b4e4a9) by Ergoni (https://sketchfab.com/Ergoni) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
